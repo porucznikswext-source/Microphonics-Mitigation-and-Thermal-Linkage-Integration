@@ -1,6 +1,8 @@
 # Microphonics-Mitigation-and-Thermal-Linkage-Integration
 Microphonics Mitigation and Thermal Linkage Integration
 
+```
+
 Microphonics Mitigation and Thermal Linkage Integration
 Compressor piston reciprocation ($f_{\text{drive}} \approx 40\text{ to }60,\text{Hz}$) introduces structural microphonics that can shake the optical bench, inducing line-of-sight pointing jitter.
 
@@ -347,3 +349,5 @@ int main() {
 }
 
 Comparative Architectural Matrix: Military vs. Commercial Satellite Buses
+
+```
