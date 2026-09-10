@@ -351,3 +351,10 @@ int main() {
 Comparative Architectural Matrix: Military vs. Commercial Satellite Buses
 
 ```
+
+https://leanpub.com/thelocalaistackbuildingasovereignmachinelearningworkstation
+https://leanpub.com/masteringadvancedqiskitquantumcomputing
+https://leanpub.com/masteringawsadvancedpythonengineering
+https://leanpub.com/engineeringsovereigndarkmeshnetworks
+https://leanpub.com/advancedcryptographyprofessionalimplementationhandbook
+https://leanpub.com/advancedautomation50chaptermasterscriptpackage
